@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-geu&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-geu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav-geu" alt="anubhav-geu" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **anubhav.geu.2018694@gmail.com**
